@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "MANA3D Plugin",
+	"Version": 1,
+	"VersionName": "1.0",
+	"EngineVersion": 1579795,
+	"Description": "Extracts 3D models and textures from the game",
+	"Category": "MANA3DPlugin.Plugins",
+	"CreatedBy": "Mahmoud Abu Obaid",
+	"CreatedByUrl": "MANA3DGames.io",
+	
+	"Modules" :
+	[
+		{ 
+			"Name": "MANA3DPlugin",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault" 
+		}
+	]
+	
+}
